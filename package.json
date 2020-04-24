@@ -1,9 +1,14 @@
 {
   "name": "cymatic.api",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Comunicate with Cymatic's api",
   "author": "Narciso Guillen <guillen.narciso@gmail.com>",
   "license": "ISC",
+  "contributors": [
+    {
+      "name": "Octavio Santiago <santiagolepe@gmail.com>"
+    }
+  ],
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/narcisoguillen/cymatic.git"
